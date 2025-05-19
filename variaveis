@@ -1,0 +1,5 @@
+let jardineiro;
+let plantas = [];
+let temperatura = 10;
+let totalArvores= 0; 
+let corfundo = IerpColor(217, 112,26), color(219,
